@@ -26,11 +26,11 @@ tic-tac-toe-automation/
 ```
 
 ## Video Walkthrough of the Project
-- **Project Demo**: [Watch here](https://youtu.be/your-video-link)
+- **Project Demo**: [Watch here](https://youtu.be/OyIR_0G3kEk)
 - A quick walkthrough showing how the Tic-Tac-Toe app is tested using automated scripts.
 
 ## Video Walkthrough of the Codebase
-- **Codebase Overview**: [Watch here](https://youtu.be/your-codebase-walkthrough-link)
+- **Codebase Overview**: [Watch here](https://youtu.be/OyIR_0G3kEk)
 - A short tour of the project's codebase, explaining the structure and flow of the automation scripts.
 
 ## Features
